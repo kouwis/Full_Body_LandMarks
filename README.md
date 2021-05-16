@@ -11,7 +11,7 @@ Togther and acheived all Coordinates every point
 ![alt text](Landmarks.gif)
 
 
-Sperete Face Mesh into
+> **Sperete Face Mesh into:-**
 
 - Left Eye
 - Right Eye
@@ -19,11 +19,11 @@ Sperete Face Mesh into
 - Mouth
 - Head
 
-, Sperete Hands into
+> **divide Hands into:-**
 
 - Fingers
 
-Sperete body into
+> **divide body into:-**
 
 - Chest
 - Arms
