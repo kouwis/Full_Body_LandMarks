@@ -1,6 +1,8 @@
 # Full_Body_LandMarks
 
-> In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solutions.html) solutions in sections
+##Explained
+
+In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solutions.html) solutions in sections
 
 - Face Mesh
 - Hands
@@ -12,7 +14,7 @@ Togther and achieved all coordinates every point
 ![alt text](Landmarks.gif)
 
 
-> **Divide Face Mesh into :-**
+**Divide Face Mesh into :-**
 
 - Left Eye
 - Right Eye
@@ -20,11 +22,11 @@ Togther and achieved all coordinates every point
 - Mouth
 - Head
 
-> **Divide Hands into :-**
+**Divide Hands into :-**
 
 - Fingers
 
-> **Divide body into :-**
+**Divide body into :-**
 
 - Chest
 - Arms
