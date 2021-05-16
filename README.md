@@ -2,7 +2,7 @@
 
 ### Explained
 
-In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solutions.html) solutions in sections
+In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solutions.html) solutions in sections:
 
 - Face Mesh
 - Hands
