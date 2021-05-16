@@ -4,6 +4,7 @@ In this repo i used [Mediapipe](https://google.github.io/mediapipe/solutions/sol
 - Face Mesh
 - Hands
 - Pose
+
 Togther and acheived all Coordinates every point
 
 
