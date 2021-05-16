@@ -16,17 +16,19 @@ Togther and achieved all coordinates every point
 
 **Divide Face Mesh into :-**
 
+Face Mesh images points in folder 
+
 - Left Eye
 - Right Eye
 - Nose
 - Mouth
 - Head
 
-**Divide Hands into :-**
+**Divide [Hands](https://google.github.io/mediapipe/solutions/hands.html) into :-**
 
 - Fingers
 
-**Divide body into :-**
+**Divide [Pose](https://google.github.io/mediapipe/solutions/pose.html) into :-**
 
 - Chest
 - Arms
