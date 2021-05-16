@@ -34,4 +34,4 @@ Togther and achieved all coordinates every point
 
 
 ### Installation
-[Doownlad](https://github.com/kouwis/Full_Body_LandMarks.git) package and put it in your project folder and import it as any packages such as: **Numpy**, **Math**
+[Doownlad](https://codeload.github.com/kouwis/Full_Body_LandMarks/zip/refs/heads/main) package and put it in your project folder and import it as any packages such as: **Numpy**, **Math**
