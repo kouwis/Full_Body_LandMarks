@@ -36,7 +36,7 @@ Face Mesh images points in folder
 
 
 ### Installation
-[Doownlad](https://codeload.github.com/kouwis/Full_Body_LandMarks/zip/refs/heads/main) package and put it in your project folder and import it as any packages such as: **Numpy**, **Math**
+[Downlad](https://codeload.github.com/kouwis/Full_Body_LandMarks/zip/refs/heads/main) package and put it in your project folder and import it as any packages such as: **Numpy**, **Math**
 
 
 ### Usage
