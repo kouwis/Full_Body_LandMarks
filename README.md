@@ -11,7 +11,7 @@ Togther and acheived all Coordinates every point
 ![alt text](Landmarks.gif)
 
 
-> **Sperete Face Mesh into:-**
+> **Divide Face Mesh into :-**
 
 - Left Eye
 - Right Eye
@@ -19,11 +19,11 @@ Togther and acheived all Coordinates every point
 - Mouth
 - Head
 
-> **divide Hands into:-**
+> **Divide Hands into :-**
 
 - Fingers
 
-> **divide body into:-**
+> **Divide body into :-**
 
 - Chest
 - Arms
