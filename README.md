@@ -34,7 +34,7 @@ Face Mesh images points in folder
 - Arms
 - Legs
 
-![alt text](Branches.png)
+![alt text](Project.png)
 
 
 
