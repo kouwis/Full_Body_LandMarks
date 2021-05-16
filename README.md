@@ -31,3 +31,8 @@ Togther and achieved all coordinates every point
 - Chest
 - Arms
 - Legs
+
+
+### Installation
+
+Download Full_Body_LandMarks package and put it in your project folder and import it as any packages such as: **Numpy**, **Math**
