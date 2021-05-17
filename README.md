@@ -8,8 +8,13 @@ In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solut
 - Hands
 - Pose
 
-Togther and achieved all coordinates every point
+This will extract all coordinates points for any part of the body.
+In any class of them, there are two functions:
+- Find Points
+- Drawing
 
+Find_Points function has some of sub functions those are parts of the body after that returns a list of class points such as: Face points
+Drawing function returns an image with labeled points.
 
 ![alt text](Landmarks.gif)
 
