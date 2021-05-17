@@ -13,8 +13,10 @@ In any class of them, there are two functions:
 - Find Points
 - Drawing
 
-1- Find_Points function has some of sub functions those are parts of the body after that returns a list of class points such as: Face points
-2- Drawing function returns an image with labeled points.
+**Find_Points** function has some of sub functions those are parts of the body after that returns a list of class points such as: Face points
+
+
+**Drawing** function returns an image with labeled points.
 
 ![alt text](Landmarks.gif)
 
