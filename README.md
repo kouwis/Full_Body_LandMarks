@@ -38,7 +38,8 @@ In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solut
 - Arms
 - Legs
 
-Any part (sub function) of the body returns a list of its points.
+In the face parts, It returns a 2d list the first for all face points and the second for point coordinates **otherwise** 
+it returns a 3d list  the first for all class points, the second for the beginning and end point in the part, and the third for point coordinates 
 
 ### Diagram
 
