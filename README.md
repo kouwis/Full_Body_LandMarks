@@ -34,6 +34,8 @@ Face Mesh images points in folder
 - Arms
 - Legs
 
+Any part of the body returns a list of its points.
+
 ### Diagram
 
 ![alt text](Project.jpg)
