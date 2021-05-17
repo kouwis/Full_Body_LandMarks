@@ -39,9 +39,10 @@ Face Mesh images points in folder
 
 
 ### Installation
+```bash
+pip install landmark-python
 
-> pip install landmark-python
-
+```
 ### Usage
 
 ![alt text](Usage.png)
