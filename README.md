@@ -14,7 +14,7 @@ Togther and achieved all coordinates every point
 ![alt text](Landmarks.gif)
 
 
-**Divide [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html) into :-**
+**Divide [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html) into** :
 
 Face Mesh images points in folder 
 
@@ -24,11 +24,11 @@ Face Mesh images points in folder
 - Mouth
 - Head
 
-**Divide [Hands](https://google.github.io/mediapipe/solutions/hands.html) into :-**
+**Divide [Hands](https://google.github.io/mediapipe/solutions/hands.html) into** :
 
 - Fingers
 
-**Divide [Pose](https://google.github.io/mediapipe/solutions/pose.html) into :-**
+**Divide [Pose](https://google.github.io/mediapipe/solutions/pose.html) into** :
 
 - Chest
 - Arms
