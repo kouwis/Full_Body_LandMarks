@@ -52,7 +52,7 @@ it returns a 3d list  the first for all class points, the second for the beginni
 
 ### Installation
 ```bash
-pip install landmark-python
+pip install landmark-detection
 
 ```
 ### Usage
