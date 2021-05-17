@@ -8,35 +8,41 @@ In this repo used [Mediapipe](https://google.github.io/mediapipe/solutions/solut
 - Hands
 - Pose
 
+![alt text](Landmarks.gif)
+
+
  Together, this will extract all coordinates points for any part of the body. In any class of them, there are two functions: 
 - Find Points
 - Drawing
 
 **Find_Points** function has some of sub functions those are body parts after that returns a list of class points such as: Face points
 
+1. Divide Find_Points function in class [Face](https://google.github.io/mediapipe/solutions/face_mesh.html) into:
+
+
+	- Left Eye
+	- Right Eye
+	- Nose
+	- Mouth
+	- Head
+
+
+2. Divide Find_Points function in class [Hands](https://google.github.io/mediapipe/solutions/hands.html) into:
+
+
+	- Fingers
+
+
+3. Divide Find_Points function in class [Body](https://google.github.io/mediapipe/solutions/pose.html) into:
+
+
+	- Chest
+	- Arms
+	- Legs
+
 
 **Drawing** function returns an image with labeled points.
 
-![alt text](Landmarks.gif)
-
-
-**Divide Find_Points function in class [Face](https://google.github.io/mediapipe/solutions/face_mesh.html) into**:
-
-- Left Eye
-- Right Eye
-- Nose
-- Mouth
-- Head
-
-**Divide Find_Points function in class [Hands](https://google.github.io/mediapipe/solutions/hands.html) into**:
-
-- Fingers
-
-**Divide Find_Points function in class [Body](https://google.github.io/mediapipe/solutions/pose.html) into**:
-
-- Chest
-- Arms
-- Legs
 
 ### Output
 
