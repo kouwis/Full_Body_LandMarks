@@ -21,7 +21,7 @@ In any class of them, there are two functions:
 ![alt text](Landmarks.gif)
 
 
-**Divide [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html) into**:
+**Divide Find_Points function in class [Face](https://google.github.io/mediapipe/solutions/face_mesh.html) into**:
 
 - Left Eye
 - Right Eye
@@ -29,17 +29,17 @@ In any class of them, there are two functions:
 - Mouth
 - Head
 
-**Divide [Hands](https://google.github.io/mediapipe/solutions/hands.html) into**:
+**Divide Find_Points function in class[Hands](https://google.github.io/mediapipe/solutions/hands.html) into**:
 
 - Fingers
 
-**Divide [Pose](https://google.github.io/mediapipe/solutions/pose.html) into**:
+**Divide Find_Points function in class [Body](https://google.github.io/mediapipe/solutions/pose.html) into**:
 
 - Chest
 - Arms
 - Legs
 
-Any part of the body returns a list of its points.
+Any part (sub function) of the body returns a list of its points.
 
 ### Diagram
 
