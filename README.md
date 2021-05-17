@@ -29,7 +29,7 @@ In any class of them, there are two functions:
 - Mouth
 - Head
 
-**Divide Find_Points function in class[Hands](https://google.github.io/mediapipe/solutions/hands.html) into**:
+**Divide Find_Points function in class [Hands](https://google.github.io/mediapipe/solutions/hands.html) into**:
 
 - Fingers
 
