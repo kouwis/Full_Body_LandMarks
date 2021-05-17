@@ -16,8 +16,6 @@ Togther and achieved all coordinates every point
 
 **Divide [Face Mesh](https://google.github.io/mediapipe/solutions/face_mesh.html) into**:
 
-Face Mesh images points in folder 
-
 - Left Eye
 - Right Eye
 - Nose
